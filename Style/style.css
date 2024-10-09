@@ -174,3 +174,21 @@
     display: flex; 
     gap: 20px;
 }
+
+/* Next Target Section */
+
+.next-target{
+    display: flex; 
+    align-items: center;
+    border:1px solid gray;
+    border-radius: 10px;
+}
+.next-target img{
+    height: 100%;
+    padding: 10px;
+}
+.next-target-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
