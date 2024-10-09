@@ -136,3 +136,41 @@
    border-radius: 10px;
    border-radius: 10px;
 }
+
+/* Current Target Section */
+
+.target-container{
+    margin: 50px auto;
+    width: 80%;
+    text-align: center;
+}
+.target-title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.target-card{
+    padding: 20px;
+    border-radius: 10px;
+}
+.first{
+    background: #fff6f4;
+}
+.target-card h3{
+    margin:10px 0;
+}
+.target-card p {
+    margin-bottom: 10px;
+}
+.target-card a{
+    color: black;
+}
+.second{
+    background: #f3f6fd;
+}
+.third{
+    background: #fffdf3;
+}
+.target-card-container{
+    display: flex; 
+    gap: 20px;
+}
