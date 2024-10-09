@@ -24,7 +24,10 @@
     padding: 10px;
     border-radius: 10px;
 }
+
+
 /* Hero Banner Section */
+
 .hero{
     background: url(../assets/Hero-bg.png);
     background-repeat: no-repeat;
@@ -63,13 +66,17 @@
 .hero-btn button:hover{
     background: #444444;
 }
+
+
+/* Why dev section */
+
 .why-dev{
     background-color: #fafafa;
     margin-top: 50px;
     padding: 50px;
     border-radius: 10px;
 }
-.dev-container{
+.container{
     padding-bottom: 50px;
     text-align: center;
 }
@@ -101,4 +108,31 @@
     background: linear-gradient(to left, white, transparent);
     padding:20px;
     border-radius: 10px;
+}
+
+/* Inspire section  */
+
+.inspire{
+    margin-top: 50px;
+}
+.inspire-container{
+    text-align: center;
+    width: 70%;
+}
+.insp-title{
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 800;
+}
+.inspired{
+    margin-top: 30px;
+    border: 1px solid gray;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.link{
+   
+   border-radius: 10px;
+   border-radius: 10px;
 }
