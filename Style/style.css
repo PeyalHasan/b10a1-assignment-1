@@ -192,3 +192,55 @@
     flex-direction: column;
     gap: 20px;
 }
+
+
+/* Support Section */
+
+.support{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.banner-img{
+    position: absolute;
+}
+.banner-img img{
+    height: 350px;
+    width: 1280px;
+    border-radius: 10px;
+}
+.support-banner{
+    position: relative;
+    /* bottom: 300px; */
+    top: 50px;
+    text-align: center;
+    color: white;
+    width: 70%;
+
+}
+.support-title{
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.input-text{
+    margin-top: 20px;
+    width: 45%;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+}
+.submit-btn{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-weight:700;
+    width: 20%;
+}
+.submit-btn:hover{
+    background: #4444;
+    color: wheat;
+}
